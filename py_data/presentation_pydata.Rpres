@@ -379,7 +379,7 @@ title:false
 meme::meme('success-kid-300x199.jpg', "Learned R", "Used it every day!", color = 'blue', size = 7, vjust = 0.2)
 ```
 
-All materials available at: []()
+All materials available at: [https://github.com/gretat/py_data_sofia2020](https://github.com/gretat/py_data_sofia2020)
 
 Package references
 ========================================================

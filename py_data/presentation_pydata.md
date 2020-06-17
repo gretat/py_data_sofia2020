@@ -79,7 +79,7 @@ library(tidyverse)
 ```
 
 ```
--- Attaching packages -------------------------------------------- tidyverse 1.3.0 --
+-- Attaching packages -------------------------------------------------------------------------------- tidyverse 1.3.0 --
 ```
 
 ```
@@ -90,7 +90,7 @@ v readr   1.3.1     v forcats 0.5.0
 ```
 
 ```
--- Conflicts ----------------------------------------------- tidyverse_conflicts() --
+-- Conflicts ----------------------------------------------------------------------------------- tidyverse_conflicts() --
 x dplyr::filter() masks stats::filter()
 x dplyr::lag()    masks stats::lag()
 ```
@@ -382,7 +382,7 @@ meme::meme('success-kid-300x199.jpg', "Learned R", "Used it every day!", color =
 
 <img src="presentation_pydata-figure/unnamed-chunk-14-1.png" title="plot of chunk unnamed-chunk-14" alt="plot of chunk unnamed-chunk-14" style="display: block; margin: auto;" />
 
-All materials available at: []()
+All materials available at: [https://github.com/gretat/py_data_sofia2020](https://github.com/gretat/py_data_sofia2020)
 
 Package references
 ========================================================
