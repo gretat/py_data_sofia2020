@@ -313,32 +313,28 @@ tmap_animation(well, filename = "well_anim.gif", delay = 80, loop = TRUE, width=
 
 
 
-
-There are no limitations with plots
-========================================================
-
-Do you want to make a plot that shows you are a fan of birds? 
-
-Get an image of the internet and use it to plot bird feathers! 
-There is a package for that: `ggimage`
-
-<img src="presentation_pydata-figure/unnamed-chunk-13-1.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" style="display: block; margin: auto;" />
-
 ShinyApps
 ========================================================
 
 
 *The world of apps, where you do not have to know much programming to be able to create your own application.*
 
+
+
 It is all done in one script (or 2, depending on philosophy).
 
+
+
 A simple ShinyApp example from [RStudio](https://shiny.rstudio.com/gallery/tabsets.html)
+
+
 
 ShinyApps
 ========================================================
 
 
-From simple apps 
+From simple apps:
+
 - Plot about the popularity of your name in [Scottish National Records](https://scotland.shinyapps.io/nrs-baby-names/)
 
 - [Effect size calculators](https://doomlab.shinyapps.io/mote/?_ga=2.49190563.445210606.1592039139-1894195279.1592039139) by Erin Buchanan
@@ -360,11 +356,11 @@ The joy of **RStudio**:
 
 - Easy to use IDE, which incorporates:
 
-  - RMarkdown: beautiful, reproducible, easy reports
+  - RMarkdown: beautiful, reproducible, easy reports (CHeck .Rmd file on GitHub)
 
   - Integration with ShinyApps
-
-  - R Notebooks 
+  
+  - Integration with Git and GitHub
   
   - [R Bookdown](https://gabymahrholz.github.io/Intro_to_R/data-visualisation-1.html) - perfect for teaching
 
@@ -380,15 +376,14 @@ title:false
 meme::meme('success-kid-300x199.jpg', "Learned R", "Used it every day!", color = 'blue', size = 7, vjust = 0.2)
 ```
 
-<img src="presentation_pydata-figure/unnamed-chunk-14-1.png" title="plot of chunk unnamed-chunk-14" alt="plot of chunk unnamed-chunk-14" style="display: block; margin: auto;" />
+<img src="presentation_pydata-figure/unnamed-chunk-13-1.png" title="plot of chunk unnamed-chunk-13" alt="plot of chunk unnamed-chunk-13" style="display: block; margin: auto;" />
 
 All materials available at: [https://github.com/gretat/py_data_sofia2020](https://github.com/gretat/py_data_sofia2020)
 
 Package references
 ========================================================
 
-Pebesma, E., (2018). Simple Features for R: Standardized Support for Spatial Vector Data. _The R Journal_, *10* (1), 439-446,
-  https://doi.org/10.32614/RJ-2018-009
+Pebesma, E., (2018). Simple Features for R: Standardized Support for Spatial Vector Data. _The R Journal_, *10* (1), 439-446,  https://doi.org/10.32614/RJ-2018-009
 
 Tennekes M (2018). “tmap: Thematic Maps in R.” _Journal of Statistical Software_, *84*(6), 1-39. doi: 10.18637/jss.v084.i06 (URL: https://doi.org/10.18637/jss.v084.i06).
 
@@ -402,7 +397,5 @@ Yihui Xie (2020). knitr: A General-Purpose Package for Dynamic Report Generation
 Yihui Xie (2015). Dynamic Documents with R and knitr. 2nd edition. Chapman and Hall/CRC. ISBN  978-1498716963
 
 Yihui Xie (2014). _knitr: A Comprehensive Tool for Reproducible Research in R_. In Victoria Stodden,  Friedrich Leisch and Roger D. Peng, editors,  Implementing Reproducible Computational Research.  Chapman and Hall/CRC. ISBN 978-1466561595
-
-Yu, G. (2020). ggimage: Use Image in  'ggplot2'. R package version 0.2.8. https://CRAN.R-project.org/package=ggimage
 
 Yu G. (2019). meme: Create Meme. R package version 0.2.2.  https://CRAN.R-project.org/package=meme
