@@ -1,0 +1,533 @@
+FeatureCode,GeoArea
+S92000003,Scotland
+S12000033,Aberdeen City
+S12000034,Aberdeenshire
+S12000041,Angus
+S12000035,Argyll and Bute
+S12000036,City of Edinburgh
+S12000005,Clackmannanshire
+S12000006,Dumfries and Galloway
+S12000042,Dundee City
+S12000008,East Ayrshire
+S12000045,East Dunbartonshire
+S12000010,East Lothian
+S12000011,East Renfrewshire
+S12000014,Falkirk
+S12000047,Fife
+S12000049,Glasgow City
+S12000017,Highland
+S12000018,Inverclyde
+S12000019,Midlothian
+S12000020,Moray
+S12000013,Na h-Eileanan Siar
+S12000021,North Ayrshire
+S12000050,North Lanarkshire
+S12000023,Orkney Islands
+S12000048,Perth and Kinross
+S12000038,Renfrewshire
+S12000026,Scottish Borders
+S12000027,Shetland Islands
+S12000028,South Ayrshire
+S12000029,South Lanarkshire
+S12000030,Stirling
+S12000039,West Dunbartonshire
+S12000040,West Lothian
+S16000074,Aberdeen Central
+S16000075,Aberdeen Donside
+S16000076,Aberdeen South and North Kincardine
+S16000077,Aberdeenshire East
+S16000078,Aberdeenshire West
+S16000079,Airdrie and Shotts
+S16000080,Almond Valley
+S16000081,Angus North and Mearns
+S16000082,Angus South
+S16000083,Argyll and Bute
+S16000084,Ayr
+S16000085,Banffshire and Buchan Coast
+S16000086,"Caithness, Sutherland and Ross"
+S16000087,"Carrick, Cumnock and Doon Valley"
+S16000088,Clackmannanshire and Dunblane
+S16000089,Clydebank and Milngavie
+S16000090,Clydesdale
+S16000091,Coatbridge and Chryston
+S16000092,Cowdenbeath
+S16000093,Cumbernauld and Kilsyth
+S16000094,Cunninghame North
+S16000095,Cunninghame South
+S16000096,Dumbarton
+S16000097,Dumfriesshire
+S16000098,Dundee City East
+S16000099,Dundee City West
+S16000100,Dunfermline
+S16000101,East Kilbride
+S16000102,East Lothian
+S16000103,Eastwood
+S16000104,Edinburgh Central
+S16000105,Edinburgh Eastern
+S16000106,Edinburgh Northern and Leith
+S16000107,Edinburgh Pentlands
+S16000108,Edinburgh Southern
+S16000109,Edinburgh Western
+S16000111,"Ettrick, Roxburgh and Berwickshire"
+S16000112,Falkirk East
+S16000113,Falkirk West
+S16000114,Galloway and West Dumfries
+S16000115,Glasgow Anniesland
+S16000116,Glasgow Cathcart
+S16000117,Glasgow Kelvin
+S16000118,Glasgow Maryhill and Springburn
+S16000119,Glasgow Pollok
+S16000147,Glasgow Provan
+S16000121,Glasgow Shettleston
+S16000122,Glasgow Southside
+S16000123,Greenock and Inverclyde
+S16000124,"Hamilton, Larkhall and Stonehouse"
+S16000125,Inverness and Nairn
+S16000126,Kilmarnock and Irvine Valley
+S16000127,Kirkcaldy
+S16000128,Linlithgow
+S16000129,Mid Fife and Glenrothes
+S16000130,Midlothian North and Musselburgh
+S16000131,"Midlothian South, Tweeddale and Lauderdale"
+S16000132,Moray
+S16000133,Motherwell and Wishaw
+S16000110,Na h-Eileanan an Iar
+S16000134,North East Fife
+S16000135,Orkney Islands
+S16000136,Paisley
+S16000137,Perthshire North
+S16000138,Perthshire South and Kinross-shire
+S16000139,Renfrewshire North and West
+S16000140,Renfrewshire South
+S16000141,Rutherglen
+S16000142,Shetland Islands
+S16000143,"Skye, Lochaber and Badenoch"
+S16000144,Stirling
+S16000148,Strathkelvin and Bearsden
+S16000146,Uddingston and Bellshill
+S08000015,Ayrshire and Arran
+S08000016,Borders
+S08000017,Dumfries and Galloway
+S08000029,Fife
+S08000019,Forth Valley
+S08000020,Grampian
+S08000031,Greater Glasgow and Clyde
+S08000022,Highland
+S08000032,Lanarkshire
+S08000024,Lothian
+S08000025,Orkney
+S08000026,Shetland
+S08000030,Tayside
+S08000028,Western Isles
+S13002537,Abbey
+S13002503,"Aboyne, Upper Deeside and Donside"
+S13002715,"Abronhill, Kildrum and the Village"
+S13002674,Aird and Loch Ness
+S13002719,Airdrie Central
+S13002718,Airdrie North
+S13002722,Airdrie South
+S13002486,Airyhall / Broomhill / Garthdee
+S13002583,Almond
+S13002746,Almond and Earn
+S13002608,An Taobh Siar agus Nis
+S13002650,Anderston / City
+S13002544,Annandale East and Eskdale
+S13002543,Annandale North
+S13002542,Annandale South
+S13002553,Annick
+S13002514,Arbroath East and Lunan
+S13002513,Arbroath West and Letham
+S13002708,Ardrossan and Arran
+S13002828,Armadale and Blackridge
+S13002791,Avondale and Stonehouse
+S13002782,Ayr East
+S13002781,Ayr North
+S13002783,Ayr West
+S13002682,Badenoch and Strathspey
+S13002660,Baillieston
+S13002559,Ballochmyle
+S13002504,Banchory and Mid Deeside
+S13002489,Banff and District
+S13002813,Bannockburn
+S13002600,"Barraigh, Bhatarsaigh, Eirisgeigh agus Uibhist a Deas"
+S13002578,Barrhead
+S13002827,Bathgate
+S13002563,Bearsden North
+S13002564,Bearsden South
+S13002601,Beinn na Foghla agus Uibhist a Tuath
+S13002725,Bellshill
+S13002566,Bishopbriggs North and Torrance
+S13002833,Bishopbriggs South
+S13002759,"Bishopton, Bridge of Weir & Langbank"
+S13002671,Black Isle
+S13002740,Blairgowrie and Glens
+S13002801,Blantyre
+S13002609,Bo'ness and Blackness
+S13002613,Bonnybridge and Larbert
+S13002691,Bonnyrigg
+S13002802,Bothwell and Uddingston
+S13002509,Brechin and Edzell
+S13002477,Bridge of Don
+S13002821,"Broxburn, Uphall and Winchburgh"
+S13002640,"Buckhaven, Methil and Wemyss Villages"
+S13002698,Buckie
+S13002627,"Burntisland, Kinghorn and Western Kirkcaldy"
+S13002582,"Busby, Clarkston and Eaglesham"
+S13002649,Calton
+S13002800,Cambuslang East
+S13002799,Cambuslang West
+S13002565,Campsie and Kirkintilloch North
+S13002656,Canal
+S13002673,Caol and Mallaig
+S13002512,Carnoustie and District
+S13002738,Carse of Gowrie
+S13002612,"Carse, Kinnaird and Tryst"
+S13002810,Castle
+S13002536,Castle Douglas and Glenkens
+S13002492,Central Buchan
+S13002593,City Centre
+S13002529,Clackmannanshire Central
+S13002531,Clackmannanshire East
+S13002528,Clackmannanshire North
+S13002530,Clackmannanshire South
+S13002527,Clackmannanshire West
+S13002818,Clydebank Central
+S13002819,Clydebank Waterfront
+S13002789,Clydesdale East
+S13002788,Clydesdale North
+S13002790,Clydesdale South
+S13002787,Clydesdale West
+S13002717,Coatbridge North and Glenboig
+S13002721,Coatbridge South
+S13002720,Coatbridge West
+S13002548,Coldside
+S13002590,Colinton / Fairmilehead
+S13002588,Corstorphine / Murrayfield
+S13002521,Cowal
+S13002625,Cowdenbeath
+S13002596,Craigentinny / Duddingston
+S13002644,Craigton
+S13002668,Cromarty Firth
+S13002679,Culloden and Ardersier
+S13002713,Cumbernauld North
+S13002714,Cumbernauld South
+S13002560,Cumnock and New Cumnock
+S13002638,Cupar
+S13002692,Dalkeith
+S13002709,Dalry and West Kilbride
+S13002535,Dee
+S13002611,Denny and Banknock
+S13002670,Dingwall and Seaforth
+S13002561,Doon Valley
+S13002585,Drum Brae / Gyle
+S13002654,Drumchapel / Anniesland
+S13002816,Dumbarton
+S13002576,Dunbar and East Linton
+S13002809,Dunblane and Bridge of Allan
+S13002620,Dunfermline Central
+S13002619,Dunfermline North
+S13002621,Dunfermline South
+S13002522,Dunoon
+S13002476,Dyce / Bucksburn / Danestone
+S13002767,East Berwickshire
+S13002658,East Centre
+S13002551,East End
+S13002500,East Garioch
+S13002794,East Kilbride Central North
+S13002793,East Kilbride Central South
+S13002796,East Kilbride East
+S13002792,East Kilbride South
+S13002795,East Kilbride West
+S13002824,East Livingston and East Calder
+S13002736,"East Mainland, South Ronaldsay and Burray"
+S13002637,East Neuk and Landward
+S13002666,East Sutherland and Edderton
+S13002672,Eilean a' Chèo
+S13002701,Elgin City North
+S13002702,Elgin City South
+S13002497,Ellon and District
+S13002760,Erskine & Inchinnan
+S13002573,Fa'side
+S13002614,Falkirk North
+S13002615,Falkirk South
+S13002825,Fauldhouse and the Breich Valley
+S13002699,Fochabers Lhanbryde
+S13002510,Forfar and District
+S13002703,Forres
+S13002683,Fort William and Ardnamurchan
+S13002586,Forth
+S13002808,Forth and Endrick
+S13002723,Fortissat
+S13002591,Fountainbridge / Craiglockhart
+S13002491,Fraserburgh and District
+S13002763,Galashiels and District
+S13002653,Garscadden / Scotstounhill
+S13002483,George St / Harbour
+S13002579,Giffnock and Thornliebank
+S13002786,Girvan and South Carrick
+S13002633,Glenrothes Central and Thornton
+S13002632,"Glenrothes North, Leslie and Markinch"
+S13002631,Glenrothes West and Kinglassie
+S13002645,Govan
+S13002610,Grangemouth
+S13002643,Greater Pollok
+S13002575,Haddington and Lammermuir
+S13002803,Hamilton North and East
+S13002805,Hamilton South
+S13002804,Hamilton West and Earnock
+S13002770,Hawick and Denholm
+S13002771,Hawick and Hermitage
+S13002485,Hazlehead / Ashley / Queens Cross
+S13002700,Heldon and Laich
+S13002525,Helensburgh Central
+S13002526,Helensburgh and Lomond South
+S13002741,Highland
+S13002651,Hillhead
+S13002480,Hilton / Woodside / Stockethill
+S13002758,"Houston, Crosslee & Linwood"
+S13002634,Howe of Fife and Tay Coast
+S13002502,"Huntly, Strathbogie and Howe of Alford"
+S13002684,Inverclyde East
+S13002685,Inverclyde East Central
+S13002686,Inverclyde North
+S13002687,Inverclyde South
+S13002689,Inverclyde South West
+S13002688,Inverclyde West
+S13002623,Inverkeithing and Dalgety Bay
+S13002587,Inverleith
+S13002676,Inverness Central
+S13002678,Inverness Millburn
+S13002677,Inverness Ness-Side
+S13002681,Inverness South
+S13002675,Inverness West
+S13002499,Inverurie and District
+S13002705,Irvine East
+S13002558,Irvine Valley
+S13002704,Irvine West
+S13002523,Isle of Bute
+S13002769,Jedburgh and District
+S13002757,"Johnstone North, Kilbarchan & Lochwinnoch"
+S13002756,"Johnstone South, Elderslie & Howwood"
+S13002697,Keith and Cullen
+S13002768,Kelso and District
+S13002710,Kilbirnie and Beith
+S13002556,Kilmarnock East and Hurlford
+S13002554,Kilmarnock North
+S13002557,Kilmarnock South
+S13002555,Kilmarnock West and Crosshouse
+S13002817,Kilpatrick
+S13002712,Kilsyth
+S13002706,Kilwinning
+S13002488,Kincorth / Nigg / Cove
+S13002478,Kingswells / Sheddocksley / Summerhill
+S13002745,Kinross-shire
+S13002517,Kintyre and the Islands
+S13002629,Kirkcaldy Central
+S13002630,Kirkcaldy East
+S13002628,Kirkcaldy North
+S13002569,Kirkintilloch East and Twechar
+S13002732,Kirkwall East
+S13002733,Kirkwall West and Orphir
+S13002508,Kirriemuir and Dean
+S13002784,Kyle
+S13002665,Landward Caithness
+S13002647,Langside
+S13002806,Larkhall
+S13002765,Leaderdale and Melrose
+S13002595,Leith
+S13002594,Leith Walk
+S13002568,Lenzie and Kirkintilloch South
+S13002777,Lerwick North
+S13002778,Lerwick South
+S13002815,Leven
+S13002639,"Leven, Kennoway and Largo"
+S13002598,Liberton / Gilmerton
+S13002820,Linlithgow
+S13002641,Linn
+S13002822,Livingston North
+S13002823,Livingston South
+S13002607,Loch a Tuath
+S13002540,Lochar
+S13002546,Lochee
+S13002626,Lochgelly and Cardenden
+S13002814,Lomond
+S13002524,Lomond North
+S13002616,Lower Braes
+S13002484,Lower Deeside
+S13002549,Maryfield
+S13002655,Maryhill / Kelvin
+S13002785,"Maybole, North Carrick and Coylton"
+S13002592,Meadows / Morningside
+S13002507,Mearns
+S13002518,Mid Argyll
+S13002766,Mid Berwickshire
+S13002496,Mid Formartine
+S13002534,Mid Galloway
+S13002539,Mid and Upper Nithsdale
+S13002694,Midlothian East
+S13002695,Midlothian South
+S13002693,Midlothian West
+S13002482,Midstocket / Rosemount
+S13002562,Milngavie
+S13002829,Monifeith and Sidlaw
+S13002515,Montrose and District
+S13002726,Mossend and Holytown
+S13002728,Motherwell North
+S13002729,Motherwell South East and Ravenscraig
+S13002727,Motherwell West
+S13002730,Murdostoun
+S13002571,Musselburgh East and Carberry
+S13002570,Musselburgh West
+S13002602,Na Hearadh agus Ceann a Deas nan Loch
+S13002680,Nairn
+S13002577,"Neilston, Uplawmoor and Newton Mearns North"
+S13002580,"Netherlee, Stamperland and Williamwood"
+S13002642,Newlands / Auldburn
+S13002581,Newton Mearns South
+S13002541,Nith
+S13002574,North Berwick Coastal
+S13002711,North Coast and Cumbraes
+S13002834,North East
+S13002830,North East
+S13002772,North Isles
+S13002737,North Isles
+S13002505,North Kincardine
+S13002538,North West Dumfries
+S13002662,"North, West and Central Sutherland"
+S13002479,Northfield / Mastrick North
+S13002520,Oban North and Lorn
+S13002519,Oban South and the Isles
+S13002752,Paisley East & Ralston
+S13002753,Paisley North West
+S13002754,Paisley South
+S13002755,Paisley South West
+S13002652,Partick West
+S13002690,Penicuik
+S13002584,Pentland Hills
+S13002749,Perth City Centre
+S13002748,Perth City North
+S13002747,Perth City South
+S13002493,Peterhead North and Rattray
+S13002494,Peterhead South and Cruden
+S13002646,Pollokshields
+S13002599,Portobello / Craigmillar
+S13002572,Preston / Seton / Gosford
+S13002780,Prestwick
+S13002750,Renfrew North
+S13002751,Renfrew South & Gallowhill
+S13002622,Rosyth
+S13002798,Rutherglen Central and North
+S13002797,Rutherglen South
+S13002707,Saltcoats and Stevenston
+S13002764,Selkirkshire
+S13002603,Sgir'Uige agus Ceann a Tuath nan Loch
+S13002604,Sgire an Rubha
+S13002775,Shetland Central
+S13002773,Shetland North
+S13002776,Shetland South
+S13002774,Shetland West
+S13002659,Shettleston
+S13002589,Sighthill / Gorgie
+S13002516,South Kintyre
+S13002597,Southside / Newington
+S13002648,Southside Central
+S13002696,Speyside Glenlivet
+S13002657,Springburn
+S13002636,St Andrews
+S13002605,Steòrnabhagh a Deas
+S13002606,Steòrnabhagh a Tuath
+S13002812,Stirling East
+S13002811,Stirling West
+S13002506,Stonehaven and Lower Deeside
+S13002532,Stranraer and North Rhins
+S13002744,Strathallan
+S13002743,Strathearn
+S13002832,Strathkelvin
+S13002545,Strathmartine
+S13002739,Strathmore
+S13002742,Strathtay
+S13002734,Stromness and South Isles
+S13002669,Tain and Easter Ross
+S13002635,Tay Bridgehead
+S13002552,The Ferry
+S13002624,The Lochs
+S13002724,Thorniewood
+S13002663,Thurso
+S13002481,Tillydrone / Seaton / Old Aberdeen
+S13002487,Torry / Ferryhill
+S13002779,Troon
+S13002807,Trossachs and Teith
+S13002490,Troup
+S13002495,Turriff and District
+S13002762,Tweeddale East
+S13002761,Tweeddale West
+S13002617,Upper Braes
+S13002547,West End
+S13002618,West Fife and Coastal Villages
+S13002498,West Garioch
+S13002735,West Mainland
+S13002667,"Wester Ross, Strathpeffer and Lochalsh"
+S13002501,Westhill and District
+S13002826,Whitburn and Blackburn
+S13002664,Wick
+S13002533,Wigtown West
+S13002731,Wishaw
+S14000001,Aberdeen North
+S14000002,Aberdeen South
+S14000003,Airdrie and Shotts
+S14000004,Angus
+S14000005,Argyll and Bute
+S14000006,"Ayr, Carrick and Cumnock"
+S14000007,Banff and Buchan
+S14000008,"Berwickshire, Roxburgh and Selkirk"
+S14000009,"Caithness, Sutherland and Easter Ross"
+S14000010,Central Ayrshire
+S14000011,"Coatbridge, Chryston and Bellshill"
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East"
+S14000013,Dumfries and Galloway
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale"
+S14000015,Dundee East
+S14000016,Dundee West
+S14000017,Dunfermline and West Fife
+S14000018,East Dunbartonshire
+S14000019,"East Kilbride, Strathaven and Lesmahagow"
+S14000020,East Lothian
+S14000021,East Renfrewshire
+S14000022,Edinburgh East
+S14000023,Edinburgh North and Leith
+S14000024,Edinburgh South
+S14000025,Edinburgh South West
+S14000026,Edinburgh West
+S14000028,Falkirk
+S14000029,Glasgow Central
+S14000030,Glasgow East
+S14000031,Glasgow North
+S14000032,Glasgow North East
+S14000033,Glasgow North West
+S14000034,Glasgow South
+S14000035,Glasgow South West
+S14000036,Glenrothes
+S14000037,Gordon
+S14000038,Inverclyde
+S14000039,"Inverness, Nairn, Badenoch and Strathspey"
+S14000040,Kilmarnock and Loudoun
+S14000041,Kirkcaldy and Cowdenbeath
+S14000042,Lanark and Hamilton East
+S14000043,Linlithgow and East Falkirk
+S14000044,Livingston
+S14000045,Midlothian
+S14000046,Moray
+S14000047,Motherwell and Wishaw
+S14000027,Na h-Eileanan an Iar
+S14000048,North Ayrshire and Arran
+S14000049,North East Fife
+S14000050,Ochil and South Perthshire
+S14000051,Orkney and Shetland
+S14000052,Paisley and Renfrewshire North
+S14000053,Paisley and Renfrewshire South
+S14000054,Perth and North Perthshire
+S14000055,"Ross, Skye and Lochaber"
+S14000056,Rutherglen and Hamilton West
+S14000057,Stirling
+S14000058,West Aberdeenshire and Kincardine
+S14000059,West Dunbartonshire

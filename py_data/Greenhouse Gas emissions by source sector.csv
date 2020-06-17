@@ -1,0 +1,771 @@
+FeatureCode,DateCode,Measurement,Units,Value,Greenhouse gas source sector,Pollutant
+S92000003,1995,Count,Mt Co2Equiv,3.401764434,Agriculture and Related Land Use,N2O
+S92000003,1999,Count,Mt Co2Equiv,3.429993275,Agriculture and Related Land Use,N2O
+S92000003,2012,Count,Mt Co2Equiv,2.661193273,Agriculture and Related Land Use,N2O
+S92000003,2014,Count,Mt Co2Equiv,2.683604405,Agriculture and Related Land Use,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.14026667,Transport (excluding international aviation and shipping),N2O
+S92000003,2008,Count,Mt Co2Equiv,0.120827302,Transport (excluding international aviation and shipping),N2O
+S92000003,1990,Count,Mt Co2Equiv,0.070235703,Waste Management,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.097304038,Waste Management,N2O
+S92000003,1998,Count,Mt Co2Equiv,3.457310792,Agriculture and Related Land Use,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.090894621,Waste Management,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.108615504,Waste Management,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.077161937,Waste Management,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.104323724,Waste Management,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.06751745,Business and Industrial Process,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.153023821,Transport (excluding international aviation and shipping),N2O
+S92000003,2007,Count,Mt Co2Equiv,2.765731496,Agriculture and Related Land Use,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.160647543,Transport (excluding international aviation and shipping),N2O
+S92000003,2007,Count,Mt Co2Equiv,0.069866774,Business and Industrial Process,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.17084614,Transport (excluding international aviation and shipping),N2O
+S92000003,2007,Count,Mt Co2Equiv,0.138988686,Transport (excluding international aviation and shipping),N2O
+S92000003,2011,Count,Mt Co2Equiv,0.067269957,Business and Industrial Process,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.081439999,Waste Management,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.148042827,Transport (excluding international aviation and shipping),N2O
+S92000003,2009,Count,Mt Co2Equiv,0.11451146,Transport (excluding international aviation and shipping),N2O
+S92000003,2004,Count,Mt Co2Equiv,0.081921494,Waste Management,N2O
+S92000003,2013,Count,Mt Co2Equiv,2.681077948,Agriculture and Related Land Use,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.072503682,Waste Management,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.015586146,Residential,N2O
+S92000003,2006,Count,Mt Co2Equiv,2.816389442,Agriculture and Related Land Use,N2O
+S92000003,2004,Count,Mt Co2Equiv,3.038195956,Agriculture and Related Land Use,N2O
+S92000003,2005,Count,Mt Co2Equiv,2.907391152,Agriculture and Related Land Use,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.016384346,Residential,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.013896354,Residential,N2O
+S92000003,2009,Count,Mt Co2Equiv,2.736263228,Agriculture and Related Land Use,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.017127395,Residential,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.017357751,Residential,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.069505137,Business and Industrial Process,N2O
+S92000003,2016,Count,Mt Co2Equiv,2.589729021,Agriculture and Related Land Use,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.111074884,Waste Management,N2O
+S92000003,2001,Count,Mt Co2Equiv,3.261823439,Agriculture and Related Land Use,N2O
+S92000003,2000,Count,Mt Co2Equiv,3.232345433,Agriculture and Related Land Use,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.080343323,Waste Management,N2O
+S92000003,1990,Count,Mt Co2Equiv,3.258166874,Agriculture and Related Land Use,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.076305224,Waste Management,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.081217366,Waste Management,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.107357347,Waste Management,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.117111376,Waste Management,N2O
+S92000003,2003,Count,Mt Co2Equiv,3.166407952,Agriculture and Related Land Use,N2O
+S92000003,2002,Count,Mt Co2Equiv,3.190935961,Agriculture and Related Land Use,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.145239255,Development,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.104544624,Forestry,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.016089492,International Aviation and Shipping,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.001142466,Public Sector Buildings,N2O
+S92000003,2008,Count,Mt Co2Equiv,9.30937E-4,Public Sector Buildings,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.017204113,International Aviation and Shipping,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.144184882,Development,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.068041388,Energy Supply,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.144365701,Development,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.146425754,Development,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.144606863,Development,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.118818143,Energy Supply,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.113044278,Energy Supply,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.101222486,Forestry,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.001024332,Public Sector Buildings,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.090821072,Forestry,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.103879793,Energy Supply,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.103083809,Forestry,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.096826637,Energy Supply,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.0697672,Business and Industrial Process,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.470416174,Business and Industrial Process,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.087646524,Forestry,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.00193589,Public Sector Buildings,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.002366876,Public Sector Buildings,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.184026668,Transport (excluding international aviation and shipping),N2O
+S92000003,2014,Count,Mt Co2Equiv,0.11731706,Transport (excluding international aviation and shipping),N2O
+S92000003,2017,Count,Mt Co2Equiv,2.576423232,Agriculture and Related Land Use,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.110464522,Transport (excluding international aviation and shipping),N2O
+S92000003,2003,Count,Mt Co2Equiv,0.079033728,Waste Management,N2O
+S92000003,2008,Count,Mt Co2Equiv,2.673527623,Agriculture and Related Land Use,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.171558578,Transport (excluding international aviation and shipping),N2O
+S92000003,1999,Count,Mt Co2Equiv,0.193013742,Transport (excluding international aviation and shipping),N2O
+S92000003,2014,Count,Mt Co2Equiv,0.110000752,Waste Management,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.109903375,Transport (excluding international aviation and shipping),N2O
+S92000003,2016,Count,Mt Co2Equiv,0.114233547,Waste Management,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.067922025,Business and Industrial Process,N2O
+S92000003,2007,Count,Mt Co2Equiv,0.095826618,Forestry,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.099488842,Forestry,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.101340401,Energy Supply,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.114076419,Energy Supply,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.001092712,Public Sector Buildings,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.001170547,Public Sector Buildings,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.112621742,Transport (excluding international aviation and shipping),N2O
+S92000003,1990,Count,Mt Co2Equiv,0.015630218,International Aviation and Shipping,N2O
+S92000003,2015,Count,Mt Co2Equiv,2.622873845,Agriculture and Related Land Use,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.143104496,Development,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.020329338,International Aviation and Shipping,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.145870854,Development,N2O
+S92000003,2004,Count,Mt Co2Equiv,21.1872558,Energy Supply,CO2
+S92000003,2010,Count,Mt Co2Equiv,3.756093007,Agriculture and Related Land Use,CO2
+S92000003,1990,Count,Mt Co2Equiv,20.65300867,Energy Supply,CO2
+S92000003,2011,Count,Mt Co2Equiv,3.412026709,Agriculture and Related Land Use,CO2
+S92000003,2006,Count,Mt Co2Equiv,23.89506844,Energy Supply,CO2
+S92000003,2003,Count,Mt Co2Equiv,22.98452235,Energy Supply,CO2
+S92000003,2010,Count,Mt Co2Equiv,20.22633471,Energy Supply,CO2
+S92000003,2014,Count,Mt Co2Equiv,13.32626015,Energy Supply,CO2
+S92000003,2008,Count,Mt Co2Equiv,3.908734907,Agriculture and Related Land Use,CO2
+S92000003,2013,Count,Mt Co2Equiv,3.277098401,Agriculture and Related Land Use,CO2
+S92000003,2009,Count,Mt Co2Equiv,3.840644505,Agriculture and Related Land Use,CO2
+S92000003,2002,Count,Mt Co2Equiv,22.67758487,Energy Supply,CO2
+S92000003,2007,Count,Mt Co2Equiv,4.253779706,Agriculture and Related Land Use,CO2
+S92000003,2008,Count,Mt Co2Equiv,19.39112814,Energy Supply,CO2
+S92000003,2013,Count,Mt Co2Equiv,15.40203977,Energy Supply,CO2
+S92000003,2001,Count,Mt Co2Equiv,24.37020992,Energy Supply,CO2
+S92000003,1999,Count,Mt Co2Equiv,5.210945704,Agriculture and Related Land Use,CO2
+S92000003,2015,Count,Mt Co2Equiv,11.70924122,Energy Supply,CO2
+S92000003,1999,Count,Mt Co2Equiv,22.1793633,Energy Supply,CO2
+S92000003,2017,Count,Mt Co2Equiv,2.798087087,Agriculture and Related Land Use,CO2
+S92000003,2016,Count,Mt Co2Equiv,2.929464353,Agriculture and Related Land Use,CO2
+S92000003,2007,Count,Mt Co2Equiv,20.69855189,Energy Supply,CO2
+S92000003,2012,Count,Mt Co2Equiv,16.80615301,Energy Supply,CO2
+S92000003,2012,Count,Mt Co2Equiv,3.246084788,Agriculture and Related Land Use,CO2
+S92000003,2002,Count,Mt Co2Equiv,9.867933999,Business and Industrial Process,CO2
+S92000003,2004,Count,Mt Co2Equiv,9.809605916,Business and Industrial Process,CO2
+S92000003,2000,Count,Mt Co2Equiv,10.51153161,Business and Industrial Process,CO2
+S92000003,2001,Count,Mt Co2Equiv,1.717553319,Development,CO2
+S92000003,2011,Count,Mt Co2Equiv,7.812809204,Business and Industrial Process,CO2
+S92000003,2005,Count,Mt Co2Equiv,9.360859488,Business and Industrial Process,CO2
+S92000003,2015,Count,Mt Co2Equiv,7.21397119,Business and Industrial Process,CO2
+S92000003,2006,Count,Mt Co2Equiv,9.000334933,Business and Industrial Process,CO2
+S92000003,2016,Count,Mt Co2Equiv,7.267814353,Business and Industrial Process,CO2
+S92000003,2003,Count,Mt Co2Equiv,9.93731266,Business and Industrial Process,CO2
+S92000003,2001,Count,Mt Co2Equiv,10.80672499,Business and Industrial Process,CO2
+S92000003,1999,Count,Mt Co2Equiv,10.70123289,Business and Industrial Process,CO2
+S92000003,2017,Count,Mt Co2Equiv,7.376506743,Business and Industrial Process,CO2
+S92000003,1995,Count,Mt Co2Equiv,10.76957077,Business and Industrial Process,CO2
+S92000003,2006,Count,Mt Co2Equiv,1.70378911,Development,CO2
+S92000003,2007,Count,Mt Co2Equiv,8.560386591,Business and Industrial Process,CO2
+S92000003,2005,Count,Mt Co2Equiv,1.850381004,Development,CO2
+S92000003,2003,Count,Mt Co2Equiv,1.797568652,Development,CO2
+S92000003,2002,Count,Mt Co2Equiv,1.738745696,Development,CO2
+S92000003,1999,Count,Mt Co2Equiv,1.746267882,Development,CO2
+S92000003,2008,Count,Mt Co2Equiv,9.049631986,Business and Industrial Process,CO2
+S92000003,2012,Count,Mt Co2Equiv,7.64801965,Business and Industrial Process,CO2
+S92000003,2009,Count,Mt Co2Equiv,7.780990262,Business and Industrial Process,CO2
+S92000003,2000,Count,Mt Co2Equiv,1.728891571,Development,CO2
+S92000003,2009,Count,Mt Co2Equiv,0.015643441,Residential,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.015413627,Residential,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.014609891,Residential,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.016344417,Residential,N2O
+S92000003,2012,Count,Mt Co2Equiv,6.99178E-4,Public Sector Buildings,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.016250404,Residential,N2O
+S92000003,2010,Count,Mt Co2Equiv,2.709512382,Agriculture and Related Land Use,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.086849917,Waste Management,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.164362399,Transport (excluding international aviation and shipping),N2O
+S92000003,2007,Count,Mt Co2Equiv,0.014180749,Residential,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.013788267,Residential,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.111555075,Waste Management,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.068703228,Business and Industrial Process,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.042191474,Residential,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.01553179,Residential,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.067422645,Business and Industrial Process,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.02315512,Residential,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.025336049,Residential,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.016575898,Residential,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.069967729,Business and Industrial Process,N2O
+S92000003,2011,Count,Mt Co2Equiv,6.58248E-4,Public Sector Buildings,N2O
+S92000003,2007,Count,Mt Co2Equiv,0.093697576,Waste Management,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.023150702,Residential,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.07054077,Business and Industrial Process,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.020037547,Residential,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.113174673,Transport (excluding international aviation and shipping),N2O
+S92000003,2015,Count,Mt Co2Equiv,2.987802915,Agriculture and Related Land Use,CO2
+S92000003,2003,Count,Mt Co2Equiv,0.014829971,Residential,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.067548944,Business and Industrial Process,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.070153369,Business and Industrial Process,N2O
+S92000003,1998,Count,Mt Co2Equiv,24.20085677,Energy Supply,CO2
+S92000003,2005,Count,Mt Co2Equiv,20.08964831,Energy Supply,CO2
+S92000003,2009,Count,Mt Co2Equiv,18.02917086,Energy Supply,CO2
+S92000003,2014,Count,Mt Co2Equiv,3.238197326,Agriculture and Related Land Use,CO2
+S92000003,2011,Count,Mt Co2Equiv,16.36078361,Energy Supply,CO2
+S92000003,2000,Count,Mt Co2Equiv,25.12428305,Energy Supply,CO2
+S92000003,1998,Count,Mt Co2Equiv,0.1944427,Transport (excluding international aviation and shipping),N2O
+S92000003,2011,Count,Mt Co2Equiv,2.657244789,Agriculture and Related Land Use,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.128584073,Transport (excluding international aviation and shipping),N2O
+S92000003,2000,Count,Mt Co2Equiv,0.019940835,Residential,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.089804472,Waste Management,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.069522352,Business and Industrial Process,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.016348897,Residential,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.134114428,Transport (excluding international aviation and shipping),N2O
+S92000003,2008,Count,Mt Co2Equiv,0.07020257,Business and Industrial Process,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.071657446,Business and Industrial Process,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.213596611,Transport (excluding international aviation and shipping),N2O
+S92000003,2015,Count,Mt Co2Equiv,0.12234063,Transport (excluding international aviation and shipping),N2O
+S92000003,2000,Count,Mt Co2Equiv,8.83984E-4,Business and Industrial Process,NF3
+S92000003,2001,Count,Mt Co2Equiv,5.41267E-4,Business and Industrial Process,NF3
+S92000003,2004,Count,Mt Co2Equiv,4.12266E-4,Business and Industrial Process,NF3
+S92000003,1990,Count,Mt Co2Equiv,2.03353E-4,Business and Industrial Process,NF3
+S92000003,2017,Count,Mt Co2Equiv,3.71351E-4,Business and Industrial Process,NF3
+S92000003,2013,Count,Mt Co2Equiv,2.53638E-4,Business and Industrial Process,NF3
+S92000003,2002,Count,Mt Co2Equiv,0.16406081,Residential,HFCs
+S92000003,1999,Count,Mt Co2Equiv,0.149112583,Residential,HFCs
+S92000003,2011,Count,Mt Co2Equiv,1.044824619,Business and Industrial Process,HFCs
+S92000003,2017,Count,Mt Co2Equiv,1.009436393,Business and Industrial Process,HFCs
+S92000003,2014,Count,Mt Co2Equiv,0.151905799,Residential,HFCs
+S92000003,2000,Count,Mt Co2Equiv,0.166249435,Residential,HFCs
+S92000003,2012,Count,Mt Co2Equiv,2.3058E-4,Business and Industrial Process,NF3
+S92000003,2010,Count,Mt Co2Equiv,1.90562E-4,Business and Industrial Process,NF3
+S92000003,2014,Count,Mt Co2Equiv,2.79001E-4,Business and Industrial Process,NF3
+S92000003,1998,Count,Mt Co2Equiv,6.60148E-4,Business and Industrial Process,NF3
+S92000003,2009,Count,Mt Co2Equiv,1.79203E-4,Business and Industrial Process,NF3
+S92000003,2002,Count,Mt Co2Equiv,7.23138E-4,Business and Industrial Process,NF3
+S92000003,1995,Count,Mt Co2Equiv,5.00836E-4,Business and Industrial Process,NF3
+S92000003,2007,Count,Mt Co2Equiv,1.96304E-4,Business and Industrial Process,NF3
+S92000003,2005,Count,Mt Co2Equiv,2.02071E-4,Business and Industrial Process,NF3
+S92000003,2006,Count,Mt Co2Equiv,2.00368E-4,Business and Industrial Process,NF3
+S92000003,2016,Count,Mt Co2Equiv,3.37592E-4,Business and Industrial Process,NF3
+S92000003,2008,Count,Mt Co2Equiv,1.89423E-4,Business and Industrial Process,NF3
+S92000003,2001,Count,Mt Co2Equiv,0.179545295,Residential,HFCs
+S92000003,2004,Count,Mt Co2Equiv,0.742803759,Business and Industrial Process,HFCs
+S92000003,2009,Count,Mt Co2Equiv,0.175048449,Residential,HFCs
+S92000003,2007,Count,Mt Co2Equiv,0.981276062,Business and Industrial Process,HFCs
+S92000003,1998,Count,Mt Co2Equiv,0.179449535,Residential,HFCs
+S92000003,2014,Count,Mt Co2Equiv,1.1401351,Business and Industrial Process,HFCs
+S92000003,2003,Count,Mt Co2Equiv,0.184230254,Residential,HFCs
+S92000003,2008,Count,Mt Co2Equiv,0.183435502,Residential,HFCs
+S92000003,2016,Count,Mt Co2Equiv,0.142441957,Residential,HFCs
+S92000003,2010,Count,Mt Co2Equiv,1.159739449,Business and Industrial Process,HFCs
+S92000003,1999,Count,Mt Co2Equiv,0.286544809,Business and Industrial Process,HFCs
+S92000003,2002,Count,Mt Co2Equiv,0.549390236,Business and Industrial Process,HFCs
+S92000003,2006,Count,Mt Co2Equiv,0.906005002,Business and Industrial Process,HFCs
+S92000003,2008,Count,Mt Co2Equiv,1.022476459,Business and Industrial Process,HFCs
+S92000003,2009,Count,Mt Co2Equiv,1.103063371,Business and Industrial Process,HFCs
+S92000003,2015,Count,Mt Co2Equiv,0.147118023,Residential,HFCs
+S92000003,2012,Count,Mt Co2Equiv,0.158556481,Residential,HFCs
+S92000003,2013,Count,Mt Co2Equiv,0.154097049,Residential,HFCs
+S92000003,2013,Count,Mt Co2Equiv,1.119606771,Business and Industrial Process,HFCs
+S92000003,1998,Count,Mt Co2Equiv,0.221786288,Business and Industrial Process,HFCs
+S92000003,2010,Count,Mt Co2Equiv,0.1639395,Residential,HFCs
+S92000003,2011,Count,Mt Co2Equiv,0.15857402,Residential,HFCs
+S92000003,1995,Count,Mt Co2Equiv,0.057975334,Residential,HFCs
+S92000003,2001,Count,Mt Co2Equiv,0.458005019,Business and Industrial Process,HFCs
+S92000003,2009,Count,Mt Co2Equiv,0.038001104,Business and Industrial Process,SF6
+S92000003,2001,Count,Mt Co2Equiv,0.054287507,Business and Industrial Process,SF6
+S92000003,2010,Count,Mt Co2Equiv,0.040625767,Business and Industrial Process,SF6
+S92000003,2004,Count,Mt Co2Equiv,0.059550576,Business and Industrial Process,SF6
+S92000003,2002,Count,Mt Co2Equiv,0.055522126,Business and Industrial Process,SF6
+S92000003,2000,Count,Mt Co2Equiv,0.057435341,Business and Industrial Process,SF6
+S92000003,2008,Count,Mt Co2Equiv,0.082643125,Business and Industrial Process,PFCs
+S92000003,2011,Count,Mt Co2Equiv,0.038810744,Business and Industrial Process,SF6
+S92000003,2006,Count,Mt Co2Equiv,0.092198488,Business and Industrial Process,PFCs
+S92000003,1999,Count,Mt Co2Equiv,0.05590684,Business and Industrial Process,SF6
+S92000003,2003,Count,Mt Co2Equiv,0.054107522,Business and Industrial Process,SF6
+S92000003,2005,Count,Mt Co2Equiv,0.065465868,Business and Industrial Process,SF6
+S92000003,2017,Count,Mt Co2Equiv,0.035650726,Business and Industrial Process,SF6
+S92000003,2013,Count,Mt Co2Equiv,0.033938584,Business and Industrial Process,SF6
+S92000003,2014,Count,Mt Co2Equiv,0.033020291,Business and Industrial Process,SF6
+S92000003,1990,Count,Mt Co2Equiv,0.047851714,Business and Industrial Process,SF6
+S92000003,2007,Count,Mt Co2Equiv,0.048338313,Business and Industrial Process,SF6
+S92000003,2012,Count,Mt Co2Equiv,0.037655458,Business and Industrial Process,SF6
+S92000003,1995,Count,Mt Co2Equiv,0.037096186,Business and Industrial Process,SF6
+S92000003,2006,Count,Mt Co2Equiv,0.049816995,Business and Industrial Process,SF6
+S92000003,2008,Count,Mt Co2Equiv,0.041312097,Business and Industrial Process,SF6
+S92000003,1998,Count,Mt Co2Equiv,0.046311526,Business and Industrial Process,SF6
+S92000003,2015,Count,Mt Co2Equiv,0.032616763,Business and Industrial Process,SF6
+S92000003,2016,Count,Mt Co2Equiv,0.035048151,Business and Industrial Process,SF6
+S92000003,1998,Count,Mt Co2Equiv,0.14810676,Business and Industrial Process,PFCs
+S92000003,1995,Count,Mt Co2Equiv,0.115776673,Business and Industrial Process,PFCs
+S92000003,2014,Count,Mt Co2Equiv,0.1420078,Business and Industrial Process,PFCs
+S92000003,2015,Count,Mt Co2Equiv,0.119549077,Business and Industrial Process,PFCs
+S92000003,2017,Count,Mt Co2Equiv,0.143523948,Business and Industrial Process,PFCs
+S92000003,2016,Count,Mt Co2Equiv,0.132211169,Business and Industrial Process,PFCs
+S92000003,1999,Count,Mt Co2Equiv,7.5917E-4,Business and Industrial Process,NF3
+S92000003,2015,Count,Mt Co2Equiv,3.06902E-4,Business and Industrial Process,NF3
+S92000003,2003,Count,Mt Co2Equiv,6.68126E-4,Business and Industrial Process,NF3
+S92000003,2012,Count,Mt Co2Equiv,0.089832946,Business and Industrial Process,PFCs
+S92000003,2013,Count,Mt Co2Equiv,0.098547769,Business and Industrial Process,PFCs
+S92000003,2011,Count,Mt Co2Equiv,2.09618E-4,Business and Industrial Process,NF3
+S92000003,2010,Count,Mt Co2Equiv,0.07624151,Business and Industrial Process,PFCs
+S92000003,2009,Count,Mt Co2Equiv,0.079012639,Business and Industrial Process,PFCs
+S92000003,1990,Count,Mt Co2Equiv,0.137273462,Business and Industrial Process,PFCs
+S92000003,2007,Count,Mt Co2Equiv,0.085666126,Business and Industrial Process,PFCs
+S92000003,2011,Count,Mt Co2Equiv,0.080417527,Business and Industrial Process,PFCs
+S92000003,2005,Count,Mt Co2Equiv,0.095987864,Business and Industrial Process,PFCs
+S92000003,2002,Count,Mt Co2Equiv,0.114853147,Business and Industrial Process,PFCs
+S92000003,2000,Count,Mt Co2Equiv,0.15405575,Business and Industrial Process,PFCs
+S92000003,2004,Count,Mt Co2Equiv,0.102745749,Business and Industrial Process,PFCs
+S92000003,2003,Count,Mt Co2Equiv,0.115860005,Business and Industrial Process,PFCs
+S92000003,1999,Count,Mt Co2Equiv,0.15777672,Business and Industrial Process,PFCs
+S92000003,2001,Count,Mt Co2Equiv,0.088695588,Business and Industrial Process,PFCs
+S92000003,2016,Count,Mt Co2Equiv,0.018649342,International Aviation and Shipping,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.018954048,International Aviation and Shipping,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.145174675,Development,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.017824041,International Aviation and Shipping,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.144180764,Development,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.079678159,Forestry,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.082262672,Forestry,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.060067425,Energy Supply,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.020159263,International Aviation and Shipping,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.113945336,Energy Supply,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.015838503,International Aviation and Shipping,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.145166487,Development,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.08590692,Forestry,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.105127643,Forestry,N2O
+S92000003,2005,Count,Mt Co2Equiv,0.017023169,International Aviation and Shipping,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.071164822,Business and Industrial Process,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.069217088,Business and Industrial Process,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.07059749,Business and Industrial Process,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.143382951,Development,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.145557367,Development,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.122542638,Energy Supply,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.017657929,International Aviation and Shipping,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.019491101,International Aviation and Shipping,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.143744182,Development,N2O
+S92000003,2007,Count,Mt Co2Equiv,0.143666982,Development,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.144520686,Development,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.015323014,International Aviation and Shipping,N2O
+S92000003,2013,Count,Mt Co2Equiv,0.144226163,Development,N2O
+S92000003,2008,Count,Mt Co2Equiv,0.143554808,Development,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.143522193,Development,N2O
+S92000003,2007,Count,Mt Co2Equiv,9.41687E-4,Public Sector Buildings,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.095113983,Energy Supply,N2O
+S92000003,2009,Count,Mt Co2Equiv,0.0865108,Forestry,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.07547699,Business and Industrial Process,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.014330438,International Aviation and Shipping,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.001089168,Public Sector Buildings,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.015473037,International Aviation and Shipping,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.016167884,International Aviation and Shipping,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.017485573,International Aviation and Shipping,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.14602687,Development,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.016587251,International Aviation and Shipping,N2O
+S92000003,2010,Count,Mt Co2Equiv,0.015287018,International Aviation and Shipping,N2O
+S92000003,2017,Count,Mt Co2Equiv,0.144828964,Development,N2O
+S92000003,2007,Count,Mt Co2Equiv,0.018408438,International Aviation and Shipping,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.017923759,International Aviation and Shipping,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.143202319,Development,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.148061413,Development,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.017453489,International Aviation and Shipping,N2O
+S92000003,1998,Count,Mt Co2Equiv,0.108766098,Forestry,N2O
+S92000003,2002,Count,Mt Co2Equiv,0.128463551,Energy Supply,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.003290019,Public Sector Buildings,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.002126333,Business and Industrial Process,HFCs
+S92000003,2005,Count,Mt Co2Equiv,0.204023681,Residential,HFCs
+S92000003,2001,Count,Mt Co2Equiv,0.141018579,Energy Supply,N2O
+S92000003,2016,Count,Mt Co2Equiv,6.48532E-4,Public Sector Buildings,N2O
+S92000003,2017,Count,Mt Co2Equiv,6.18683E-4,Public Sector Buildings,N2O
+S92000003,1995,Count,Mt Co2Equiv,0.115912479,Forestry,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.104948771,Forestry,N2O
+S92000003,2014,Count,Mt Co2Equiv,0.084890331,Forestry,N2O
+S92000003,2004,Count,Mt Co2Equiv,0.112825515,Energy Supply,N2O
+S92000003,2015,Count,Mt Co2Equiv,1.140863109,Business and Industrial Process,HFCs
+S92000003,2005,Count,Mt Co2Equiv,0.818815942,Business and Industrial Process,HFCs
+S92000003,2017,Count,Mt Co2Equiv,0.137514633,Residential,HFCs
+S92000003,2004,Count,Mt Co2Equiv,0.179952038,Residential,HFCs
+S92000003,2000,Count,Mt Co2Equiv,0.369353782,Business and Industrial Process,HFCs
+S92000003,2007,Count,Mt Co2Equiv,0.18268152,Residential,HFCs
+S92000003,2012,Count,Mt Co2Equiv,1.083221603,Business and Industrial Process,HFCs
+S92000003,2006,Count,Mt Co2Equiv,0.2023152,Residential,HFCs
+S92000003,1990,Count,Mt Co2Equiv,0,Residential,HFCs
+S92000003,1995,Count,Mt Co2Equiv,0.068440663,Business and Industrial Process,HFCs
+S92000003,2016,Count,Mt Co2Equiv,1.085076439,Business and Industrial Process,HFCs
+S92000003,2003,Count,Mt Co2Equiv,0.649432791,Business and Industrial Process,HFCs
+S92000003,1999,Count,Mt Co2Equiv,0.001875346,Public Sector Buildings,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.081279647,Forestry,N2O
+S92000003,2015,Count,Mt Co2Equiv,0.091584026,Energy Supply,N2O
+S92000003,2007,Count,Mt Co2Equiv,0.10812652,Energy Supply,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.104390643,Energy Supply,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.001613651,Public Sector Buildings,N2O
+S92000003,2014,Count,Mt Co2Equiv,6.00442E-4,Public Sector Buildings,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.102422392,Energy Supply,N2O
+S92000003,2006,Count,Mt Co2Equiv,0.124721041,Energy Supply,N2O
+S92000003,2003,Count,Mt Co2Equiv,0.1248658,Energy Supply,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.001606812,Public Sector Buildings,N2O
+S92000003,1999,Count,Mt Co2Equiv,0.105116899,Forestry,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.068309744,Business and Industrial Process,N2O
+S92000003,2012,Count,Mt Co2Equiv,0.085895636,Forestry,N2O
+S92000003,2016,Count,Mt Co2Equiv,0.079254999,Forestry,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.105770608,Forestry,N2O
+S92000003,2015,Count,Mt Co2Equiv,6.4543E-4,Public Sector Buildings,N2O
+S92000003,2013,Count,Mt Co2Equiv,6.81997E-4,Public Sector Buildings,N2O
+S92000003,2001,Count,Mt Co2Equiv,0.07057263,Business and Industrial Process,N2O
+S92000003,2011,Count,Mt Co2Equiv,0.09291993,Energy Supply,N2O
+S92000003,1990,Count,Mt Co2Equiv,0.129778237,Forestry,N2O
+S92000003,2009,Count,Mt Co2Equiv,7.84012E-4,Public Sector Buildings,N2O
+S92000003,2010,Count,Mt Co2Equiv,7.88304E-4,Public Sector Buildings,N2O
+S92000003,2000,Count,Mt Co2Equiv,0.141201802,Energy Supply,N2O
+S92000003,2005,Count,Mt Co2Equiv,4.848936015,Agriculture and Related Land Use,CH4
+S92000003,1999,Count,Mt Co2Equiv,5.746524287,Waste Management,CH4
+S92000003,1998,Count,Mt Co2Equiv,5.979031978,Waste Management,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.001521834,Forestry,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.618688061,Energy Supply,CH4
+S92000003,1995,Count,Mt Co2Equiv,5.045868269,Agriculture and Related Land Use,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.641009346,Energy Supply,CH4
+S92000003,2013,Count,Mt Co2Equiv,4.299305617,Agriculture and Related Land Use,CH4
+S92000003,2000,Count,Mt Co2Equiv,1.049506706,Energy Supply,CH4
+S92000003,2014,Count,Mt Co2Equiv,1.354532044,Waste Management,CH4
+S92000003,2014,Count,Mt Co2Equiv,4.339626849,Agriculture and Related Land Use,CH4
+S92000003,2017,Count,Mt Co2Equiv,2.30302E-4,International Aviation and Shipping,CH4
+S92000003,2008,Count,Mt Co2Equiv,2.998811932,Waste Management,CH4
+S92000003,2008,Count,Mt Co2Equiv,4.510149941,Agriculture and Related Land Use,CH4
+S92000003,2012,Count,Mt Co2Equiv,0.002435823,Development,CH4
+S92000003,2003,Count,Mt Co2Equiv,4.968955534,Waste Management,CH4
+S92000003,2011,Count,Mt Co2Equiv,0.002963766,Development,CH4
+S92000003,2009,Count,Mt Co2Equiv,4.44297754,Agriculture and Related Land Use,CH4
+S92000003,2007,Count,Mt Co2Equiv,3.146904029,Waste Management,CH4
+S92000003,2010,Count,Mt Co2Equiv,2.424241662,Waste Management,CH4
+S92000003,1995,Count,Mt Co2Equiv,6.128706657,Waste Management,CH4
+S92000003,1990,Count,Mt Co2Equiv,5.135717757,Agriculture and Related Land Use,CH4
+S92000003,2000,Count,Mt Co2Equiv,5.618838909,Waste Management,CH4
+S92000003,2012,Count,Mt Co2Equiv,0.002976396,Forestry,CH4
+S92000003,1998,Count,Mt Co2Equiv,5.155187569,Agriculture and Related Land Use,CH4
+S92000003,1995,Count,Mt Co2Equiv,0.004576518,Public Sector Buildings,CH4
+S92000003,2017,Count,Mt Co2Equiv,0.004595283,Development,CH4
+S92000003,2001,Count,Mt Co2Equiv,0.003931492,Public Sector Buildings,CH4
+S92000003,2014,Count,Mt Co2Equiv,0.002282698,Public Sector Buildings,CH4
+S92000003,2017,Count,Mt Co2Equiv,0.002400934,Public Sector Buildings,CH4
+S92000003,2003,Count,Mt Co2Equiv,5.86585E-4,International Aviation and Shipping,CH4
+S92000003,2012,Count,Mt Co2Equiv,0.002665724,Public Sector Buildings,CH4
+S92000003,1998,Count,Mt Co2Equiv,6.44434E-4,Development,CH4
+S92000003,2001,Count,Mt Co2Equiv,0.026266692,Business and Industrial Process,CH4
+S92000003,1995,Count,Mt Co2Equiv,5.55652E-4,Development,CH4
+S92000003,2000,Count,Mt Co2Equiv,0.00385684,Public Sector Buildings,CH4
+S92000003,2002,Count,Mt Co2Equiv,0.003257756,Public Sector Buildings,CH4
+S92000003,2011,Count,Mt Co2Equiv,2.288626863,Waste Management,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.004522141,Forestry,CH4
+S92000003,2000,Count,Mt Co2Equiv,5.0290891,Agriculture and Related Land Use,CH4
+S92000003,1999,Count,Mt Co2Equiv,1.085736537,Energy Supply,CH4
+S92000003,2009,Count,Mt Co2Equiv,2.66980143,Waste Management,CH4
+S92000003,2001,Count,Mt Co2Equiv,4.746043661,Agriculture and Related Land Use,CH4
+S92000003,2015,Count,Mt Co2Equiv,0.002437374,Public Sector Buildings,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.002744836,Development,CH4
+S92000003,2002,Count,Mt Co2Equiv,6.52068E-4,International Aviation and Shipping,CH4
+S92000003,1999,Count,Mt Co2Equiv,5.066596173,Agriculture and Related Land Use,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.003289391,Development,CH4
+S92000003,2012,Count,Mt Co2Equiv,0.509995861,Energy Supply,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.016585788,Transport (excluding international aviation and shipping),CH4
+S92000003,2013,Count,Mt Co2Equiv,0.48724557,Energy Supply,CH4
+S92000003,1999,Count,Mt Co2Equiv,8.84108E-4,International Aviation and Shipping,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.024925738,Transport (excluding international aviation and shipping),CH4
+S92000003,2016,Count,Mt Co2Equiv,0.005615324,Development,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.022494681,Transport (excluding international aviation and shipping),CH4
+S92000003,2003,Count,Mt Co2Equiv,0.035325318,Transport (excluding international aviation and shipping),CH4
+S92000003,2009,Count,Mt Co2Equiv,0.01997803,Business and Industrial Process,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.025172969,Business and Industrial Process,CH4
+S92000003,2000,Count,Mt Co2Equiv,6.3382E-4,Development,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.029492644,Transport (excluding international aviation and shipping),CH4
+S92000003,2011,Count,Mt Co2Equiv,0.013243153,Transport (excluding international aviation and shipping),CH4
+S92000003,2014,Count,Mt Co2Equiv,0.002122627,Development,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.002600139,Forestry,CH4
+S92000003,2010,Count,Mt Co2Equiv,0,Forestry,CH4
+S92000003,2010,Count,Mt Co2Equiv,0.014765848,Transport (excluding international aviation and shipping),CH4
+S92000003,2017,Count,Mt Co2Equiv,0.009265925,Transport (excluding international aviation and shipping),CH4
+S92000003,1999,Count,Mt Co2Equiv,3.67379E-4,Forestry,CH4
+S92000003,2017,Count,Mt Co2Equiv,0.017569381,Business and Industrial Process,CH4
+S92000003,1990,Count,Mt Co2Equiv,0.10024867,Transport (excluding international aviation and shipping),CH4
+S92000003,2015,Count,Mt Co2Equiv,0.009483091,Transport (excluding international aviation and shipping),CH4
+S92000003,2016,Count,Mt Co2Equiv,0.009004282,Transport (excluding international aviation and shipping),CH4
+S92000003,1999,Count,Mt Co2Equiv,0.054567465,Transport (excluding international aviation and shipping),CH4
+S92000003,2017,Count,Mt Co2Equiv,0.419239084,Energy Supply,CH4
+S92000003,2010,Count,Mt Co2Equiv,4.490924692,Agriculture and Related Land Use,CH4
+S92000003,2009,Count,Mt Co2Equiv,5.68184E-4,International Aviation and Shipping,CH4
+S92000003,2001,Count,Mt Co2Equiv,1.132388561,Energy Supply,CH4
+S92000003,2002,Count,Mt Co2Equiv,0.001387213,Forestry,CH4
+S92000003,2004,Count,Mt Co2Equiv,4.346419572,Waste Management,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.00238517,Forestry,CH4
+S92000003,2011,Count,Mt Co2Equiv,4.489189043,Agriculture and Related Land Use,CH4
+S92000003,2006,Count,Mt Co2Equiv,3.527674972,Waste Management,CH4
+S92000003,2007,Count,Mt Co2Equiv,4.731225692,Agriculture and Related Land Use,CH4
+S92000003,1990,Count,Mt Co2Equiv,7.46961E-4,Forestry,CH4
+S92000003,2012,Count,Mt Co2Equiv,4.444541286,Agriculture and Related Land Use,CH4
+S92000003,2015,Count,Mt Co2Equiv,1.610295177,Waste Management,CH4
+S92000003,2015,Count,Mt Co2Equiv,4.378757143,Agriculture and Related Land Use,CH4
+S92000003,2005,Count,Mt Co2Equiv,3.942477798,Waste Management,CH4
+S92000003,2016,Count,Mt Co2Equiv,4.346876306,Agriculture and Related Land Use,CH4
+S92000003,2015,Count,Mt Co2Equiv,0.441354266,Energy Supply,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.004861995,Development,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.027673151,Business and Industrial Process,CH4
+S92000003,2013,Count,Mt Co2Equiv,1.339451501,Waste Management,CH4
+S92000003,2017,Count,Mt Co2Equiv,4.30456669,Agriculture and Related Land Use,CH4
+S92000003,2012,Count,Mt Co2Equiv,1.939746051,Waste Management,CH4
+S92000003,2016,Count,Mt Co2Equiv,0,Forestry,CH4
+S92000003,2002,Count,Mt Co2Equiv,5.095277152,Waste Management,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.585887771,Energy Supply,CH4
+S92000003,2015,Count,Mt Co2Equiv,0.013889078,Business and Industrial Process,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.003153603,Forestry,CH4
+S92000003,2001,Count,Mt Co2Equiv,0.096900498,Residential,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.065982179,Residential,CH4
+S92000003,1995,Count,Mt Co2Equiv,0.07453983,Transport (excluding international aviation and shipping),CH4
+S92000003,2010,Count,Mt Co2Equiv,0.543789732,Energy Supply,CH4
+S92000003,1995,Count,Mt Co2Equiv,1.850657952,Energy Supply,CH4
+S92000003,2008,Count,Mt Co2Equiv,6.47711E-4,International Aviation and Shipping,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.059457511,Residential,CH4
+S92000003,2016,Count,Mt Co2Equiv,0.015713545,Business and Industrial Process,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.574621135,Energy Supply,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.066182797,Residential,CH4
+S92000003,2016,Count,Mt Co2Equiv,0.418722351,Energy Supply,CH4
+S92000003,2000,Count,Mt Co2Equiv,0.097437929,Residential,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.003033208,Forestry,CH4
+S92000003,1999,Count,Mt Co2Equiv,0.116490809,Residential,CH4
+S92000003,2017,Count,Mt Co2Equiv,0.002164459,Forestry,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.029616125,Business and Industrial Process,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.059272141,Transport (excluding international aviation and shipping),CH4
+S92000003,1990,Count,Mt Co2Equiv,1.970369414,Energy Supply,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.63699265,Energy Supply,CH4
+S92000003,2002,Count,Mt Co2Equiv,0.077859182,Residential,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.003435303,Forestry,CH4
+S92000003,2001,Count,Mt Co2Equiv,7.01296E-4,International Aviation and Shipping,CH4
+S92000003,2012,Count,Mt Co2Equiv,0.072055162,Residential,CH4
+S92000003,2011,Count,Mt Co2Equiv,0.568764276,Energy Supply,CH4
+S92000003,2015,Count,Mt Co2Equiv,0,Forestry,CH4
+S92000003,2014,Count,Mt Co2Equiv,0.026769665,Business and Industrial Process,CH4
+S92000003,2011,Count,Mt Co2Equiv,0.067246425,Residential,CH4
+S92000003,1998,Count,Mt Co2Equiv,1.47510499,Energy Supply,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.022724196,Business and Industrial Process,CH4
+S92000003,2011,Count,Mt Co2Equiv,0.002374061,Forestry,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.587300135,Energy Supply,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.058278255,Residential,CH4
+S92000003,2000,Count,Mt Co2Equiv,0.023239247,Business and Industrial Process,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.076664257,Residential,CH4
+S92000003,2002,Count,Mt Co2Equiv,0.001070983,Development,CH4
+S92000003,2017,Count,Mt Co2Equiv,0.073608532,Residential,CH4
+S92000003,1990,Count,Mt Co2Equiv,0.001267664,International Aviation and Shipping,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.02937173,Business and Industrial Process,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.059840384,Residential,CH4
+S92000003,2016,Count,Mt Co2Equiv,2.79443E-4,International Aviation and Shipping,CH4
+S92000003,2010,Count,Mt Co2Equiv,0.074925236,Residential,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.001587057,Forestry,CH4
+S92000003,2014,Count,Mt Co2Equiv,0.06901237,Residential,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.065563585,Residential,CH4
+S92000003,2014,Count,Mt Co2Equiv,4.29906E-4,International Aviation and Shipping,CH4
+S92000003,2016,Count,Mt Co2Equiv,0.074611125,Residential,CH4
+S92000003,1999,Count,Mt Co2Equiv,0.022234165,Business and Industrial Process,CH4
+S92000003,2013,Count,Mt Co2Equiv,4.17569E-4,International Aviation and Shipping,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.003212052,Public Sector Buildings,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.001467706,Development,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.019597203,Business and Industrial Process,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.003432206,Public Sector Buildings,CH4
+S92000003,1995,Count,Mt Co2Equiv,0.023755492,Business and Industrial Process,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.001057397,International Aviation and Shipping,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.003458367,Public Sector Buildings,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.001658469,Development,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.001513109,Development,CH4
+S92000003,2006,Count,Mt Co2Equiv,3.76676E-4,Development,CH4
+S92000003,2006,Count,Mt Co2Equiv,6.34394E-4,International Aviation and Shipping,CH4
+S92000003,2002,Count,Mt Co2Equiv,0.032011532,Business and Industrial Process,CH4
+S92000003,1990,Count,Mt Co2Equiv,4.22001E-4,Development,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.002659933,Public Sector Buildings,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.00267018,Public Sector Buildings,CH4
+S92000003,2015,Count,Mt Co2Equiv,0.072845669,Residential,CH4
+S92000003,2015,Count,Mt Co2Equiv,0.001950827,Development,CH4
+S92000003,2015,Count,Mt Co2Equiv,3.21419E-4,International Aviation and Shipping,CH4
+S92000003,2010,Count,Mt Co2Equiv,0.002849732,Public Sector Buildings,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.026688062,Business and Industrial Process,CH4
+S92000003,2016,Count,Mt Co2Equiv,0.002493843,Public Sector Buildings,CH4
+S92000003,2011,Count,Mt Co2Equiv,0.002383891,Public Sector Buildings,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.003775134,Forestry,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.025526734,Business and Industrial Process,CH4
+S92000003,1995,Count,Mt Co2Equiv,0.129160085,Residential,CH4
+S92000003,2007,Count,Mt Co2Equiv,0.002881037,Public Sector Buildings,CH4
+S92000003,2005,Count,Mt Co2Equiv,5.96982E-4,International Aviation and Shipping,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.003095126,Public Sector Buildings,CH4
+S92000003,2009,Count,Mt Co2Equiv,0.5476429,Energy Supply,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.114249849,Residential,CH4
+S92000003,2000,Count,Mt Co2Equiv,8.12643E-4,International Aviation and Shipping,CH4
+S92000003,2003,Count,Mt Co2Equiv,0.069758852,Residential,CH4
+S92000003,1990,Count,Mt Co2Equiv,0.231853974,Residential,CH4
+S92000003,1999,Count,Mt Co2Equiv,0.00102271,Development,CH4
+S92000003,1990,Count,Mt Co2Equiv,0.026682116,Business and Industrial Process,CH4
+S92000003,1998,Count,Mt Co2Equiv,0.004260554,Public Sector Buildings,CH4
+S92000003,1990,Count,Mt Co2Equiv,0.004437361,Public Sector Buildings,CH4
+S92000003,2012,Count,Mt Co2Equiv,4.5828E-4,International Aviation and Shipping,CH4
+S92000003,1995,Count,Mt Co2Equiv,8.40959E-4,International Aviation and Shipping,CH4
+S92000003,2010,Count,Mt Co2Equiv,4.87251E-4,International Aviation and Shipping,CH4
+S92000003,2008,Count,Mt Co2Equiv,0.002990847,Public Sector Buildings,CH4
+S92000003,2004,Count,Mt Co2Equiv,5.79675E-4,International Aviation and Shipping,CH4
+S92000003,2010,Count,Mt Co2Equiv,0.003332694,Development,CH4
+S92000003,1999,Count,Mt Co2Equiv,0.004163341,Public Sector Buildings,CH4
+S92000003,2011,Count,Mt Co2Equiv,5.18713E-4,International Aviation and Shipping,CH4
+S92000003,2001,Count,Mt Co2Equiv,4.13733E-4,Development,CH4
+S92000003,2017,Count,Mt Co2Equiv,1.854437756,International Aviation and Shipping,CO2
+S92000003,1998,Count,Mt Co2Equiv,1.726161927,International Aviation and Shipping,CO2
+S92000003,2005,Count,Mt Co2Equiv,1.594518544,International Aviation and Shipping,CO2
+S92000003,1990,Count,Mt Co2Equiv,1.290106471,International Aviation and Shipping,CO2
+S92000003,2013,Count,Mt Co2Equiv,1.522946323,International Aviation and Shipping,CO2
+S92000003,1995,Count,Mt Co2Equiv,1.461729297,International Aviation and Shipping,CO2
+S92000003,1995,Count,Mt Co2Equiv,1.800276897,Public Sector Buildings,CO2
+S92000003,2000,Count,Mt Co2Equiv,1.408146557,International Aviation and Shipping,CO2
+S92000003,1998,Count,Mt Co2Equiv,1.765023006,Public Sector Buildings,CO2
+S92000003,2016,Count,Mt Co2Equiv,1.803111021,International Aviation and Shipping,CO2
+S92000003,2008,Count,Mt Co2Equiv,1.759552995,International Aviation and Shipping,CO2
+S92000003,1999,Count,Mt Co2Equiv,1.561108243,International Aviation and Shipping,CO2
+S92000003,2008,Count,Mt Co2Equiv,7.209636474,Residential,CO2
+S92000003,2009,Count,Mt Co2Equiv,6.926887349,Residential,CO2
+S92000003,2007,Count,Mt Co2Equiv,7.012413097,Residential,CO2
+S92000003,1999,Count,Mt Co2Equiv,7.669264629,Residential,CO2
+S92000003,2000,Count,Mt Co2Equiv,7.535040511,Residential,CO2
+S92000003,1998,Count,Mt Co2Equiv,7.750975699,Residential,CO2
+S92000003,2003,Count,Mt Co2Equiv,1.312588171,International Aviation and Shipping,CO2
+S92000003,2006,Count,Mt Co2Equiv,7.230309661,Residential,CO2
+S92000003,2014,Count,Mt Co2Equiv,1.620941481,International Aviation and Shipping,CO2
+S92000003,2014,Count,Mt Co2Equiv,5.704890288,Residential,CO2
+S92000003,2013,Count,Mt Co2Equiv,6.82221725,Residential,CO2
+S92000003,2005,Count,Mt Co2Equiv,7.432292816,Residential,CO2
+S92000003,1995,Count,Mt Co2Equiv,0.031690378,Waste Management,CO2
+S92000003,1990,Count,Mt Co2Equiv,0.044892572,Waste Management,CO2
+S92000003,2014,Count,Mt Co2Equiv,12.05033996,Transport (excluding international aviation and shipping),CO2
+S92000003,1998,Count,Mt Co2Equiv,0.018031845,Waste Management,CO2
+S92000003,1999,Count,Mt Co2Equiv,0.018405765,Waste Management,CO2
+S92000003,2010,Count,Mt Co2Equiv,0.008435444,Waste Management,CO2
+S92000003,2017,Count,Mt Co2Equiv,0.006893824,Waste Management,CO2
+S92000003,2001,Count,Mt Co2Equiv,0.01914895,Waste Management,CO2
+S92000003,2003,Count,Mt Co2Equiv,0.01654024,Waste Management,CO2
+S92000003,2001,Count,Mt Co2Equiv,13.75376488,Transport (excluding international aviation and shipping),CO2
+S92000003,2013,Count,Mt Co2Equiv,11.9363109,Transport (excluding international aviation and shipping),CO2
+S92000003,2016,Count,Mt Co2Equiv,0.006864384,Waste Management,CO2
+S92000003,2002,Count,Mt Co2Equiv,1.428641905,Public Sector Buildings,CO2
+S92000003,1999,Count,Mt Co2Equiv,1.743334495,Public Sector Buildings,CO2
+S92000003,2004,Count,Mt Co2Equiv,1.548871452,Public Sector Buildings,CO2
+S92000003,2000,Count,Mt Co2Equiv,1.640264782,Public Sector Buildings,CO2
+S92000003,1990,Count,Mt Co2Equiv,1.680845614,Public Sector Buildings,CO2
+S92000003,2001,Count,Mt Co2Equiv,1.678508469,Public Sector Buildings,CO2
+S92000003,2007,Count,Mt Co2Equiv,1.276296862,Public Sector Buildings,CO2
+S92000003,2003,Count,Mt Co2Equiv,1.423752563,Public Sector Buildings,CO2
+S92000003,2000,Count,Mt Co2Equiv,0.018763837,Waste Management,CO2
+S92000003,2008,Count,Mt Co2Equiv,1.328486981,Public Sector Buildings,CO2
+S92000003,2005,Count,Mt Co2Equiv,1.522842831,Public Sector Buildings,CO2
+S92000003,2006,Count,Mt Co2Equiv,1.375290129,Public Sector Buildings,CO2
+S92000003,2000,Count,Mt Co2Equiv,5.259307154,Agriculture and Related Land Use,CO2
+S92000003,1998,Count,Mt Co2Equiv,5.205287506,Agriculture and Related Land Use,CO2
+S92000003,1990,Count,Mt Co2Equiv,5.315008694,Agriculture and Related Land Use,CO2
+S92000003,2016,Count,Mt Co2Equiv,6.954227389,Energy Supply,CO2
+S92000003,2001,Count,Mt Co2Equiv,5.073808196,Agriculture and Related Land Use,CO2
+S92000003,2017,Count,Mt Co2Equiv,5.556252619,Energy Supply,CO2
+S92000003,2004,Count,Mt Co2Equiv,1.872928675,Development,CO2
+S92000003,2010,Count,Mt Co2Equiv,7.921395271,Business and Industrial Process,CO2
+S92000003,2013,Count,Mt Co2Equiv,1.801318715,Development,CO2
+S92000003,2014,Count,Mt Co2Equiv,1.757564154,Development,CO2
+S92000003,2011,Count,Mt Co2Equiv,1.791338215,Development,CO2
+S92000003,2016,Count,Mt Co2Equiv,1.884435409,Development,CO2
+S92000003,1995,Count,Mt Co2Equiv,5.477144741,Agriculture and Related Land Use,CO2
+S92000003,1990,Count,Mt Co2Equiv,13.65968801,Business and Industrial Process,CO2
+S92000003,2015,Count,Mt Co2Equiv,1.750458243,Development,CO2
+S92000003,2014,Count,Mt Co2Equiv,7.228489225,Business and Industrial Process,CO2
+S92000003,1998,Count,Mt Co2Equiv,10.57642543,Business and Industrial Process,CO2
+S92000003,2013,Count,Mt Co2Equiv,7.784455553,Business and Industrial Process,CO2
+S92000003,1990,Count,Mt Co2Equiv,1.762892507,Development,CO2
+S92000003,1995,Count,Mt Co2Equiv,1.74282241,Development,CO2
+S92000003,1995,Count,Mt Co2Equiv,24.79316672,Energy Supply,CO2
+S92000003,2017,Count,Mt Co2Equiv,1.84628612,Development,CO2
+S92000003,1998,Count,Mt Co2Equiv,1.735389224,Development,CO2
+S92000003,2005,Count,Mt Co2Equiv,4.371636388,Agriculture and Related Land Use,CO2
+S92000003,2014,Count,Mt Co2Equiv,1.02062842,Public Sector Buildings,CO2
+S92000003,2013,Count,Mt Co2Equiv,1.19593333,Public Sector Buildings,CO2
+S92000003,2015,Count,Mt Co2Equiv,1.087122679,Public Sector Buildings,CO2
+S92000003,2015,Count,Mt Co2Equiv,5.871569498,Residential,CO2
+S92000003,2016,Count,Mt Co2Equiv,6.084160634,Residential,CO2
+S92000003,2017,Count,Mt Co2Equiv,5.820279097,Residential,CO2
+S92000003,2010,Count,Mt Co2Equiv,7.760071644,Residential,CO2
+S92000003,2011,Count,Mt Co2Equiv,6.248347669,Residential,CO2
+S92000003,2012,Count,Mt Co2Equiv,6.783317463,Residential,CO2
+S92000003,2016,Count,Mt Co2Equiv,1.114271607,Public Sector Buildings,CO2
+S92000003,2010,Count,Mt Co2Equiv,1.2735339,Public Sector Buildings,CO2
+S92000003,2017,Count,Mt Co2Equiv,1.074252925,Public Sector Buildings,CO2
+S92000003,2009,Count,Mt Co2Equiv,1.745883287,Development,CO2
+S92000003,2004,Count,Mt Co2Equiv,4.555213684,Agriculture and Related Land Use,CO2
+S92000003,2008,Count,Mt Co2Equiv,1.742049065,Development,CO2
+S92000003,2010,Count,Mt Co2Equiv,1.806035226,Development,CO2
+S92000003,2012,Count,Mt Co2Equiv,1.770893484,Development,CO2
+S92000003,2006,Count,Mt Co2Equiv,4.225329601,Agriculture and Related Land Use,CO2
+S92000003,2009,Count,Mt Co2Equiv,1.191632194,Public Sector Buildings,CO2
+S92000003,2011,Count,Mt Co2Equiv,1.055808774,Public Sector Buildings,CO2
+S92000003,2012,Count,Mt Co2Equiv,1.19103007,Public Sector Buildings,CO2
+S92000003,2007,Count,Mt Co2Equiv,1.74204929,Development,CO2
+S92000003,2002,Count,Mt Co2Equiv,4.778191408,Agriculture and Related Land Use,CO2
+S92000003,2003,Count,Mt Co2Equiv,4.872733137,Agriculture and Related Land Use,CO2
+S92000003,1998,Count,Mt Co2Equiv,-9.256313469,Forestry,CO2
+S92000003,2013,Count,Mt Co2Equiv,-9.841704597,Forestry,CO2
+S92000003,2006,Count,Mt Co2Equiv,1.678514534,International Aviation and Shipping,CO2
+S92000003,2001,Count,Mt Co2Equiv,-10.09615643,Forestry,CO2
+S92000003,2005,Count,Mt Co2Equiv,-10.4781442,Forestry,CO2
+S92000003,2014,Count,Mt Co2Equiv,-9.777204732,Forestry,CO2
+S92000003,2002,Count,Mt Co2Equiv,0.756072215,Energy Supply,CH4
+S92000003,2013,Count,Mt Co2Equiv,0.010637898,Transport (excluding international aviation and shipping),CH4
+S92000003,2012,Count,Mt Co2Equiv,0.011939688,Transport (excluding international aviation and shipping),CH4
+S92000003,2009,Count,Mt Co2Equiv,1.613574825,International Aviation and Shipping,CO2
+S92000003,2012,Count,Mt Co2Equiv,1.44723309,International Aviation and Shipping,CO2
+S92000003,2007,Count,Mt Co2Equiv,1.727492371,International Aviation and Shipping,CO2
+S92000003,2000,Count,Mt Co2Equiv,-9.87684597,Forestry,CO2
+S92000003,2002,Count,Mt Co2Equiv,-10.2141914,Forestry,CO2
+S92000003,2012,Count,Mt Co2Equiv,-9.909108892,Forestry,CO2
+S92000003,2002,Count,Mt Co2Equiv,1.372373829,International Aviation and Shipping,CO2
+S92000003,2004,Count,Mt Co2Equiv,-10.44048218,Forestry,CO2
+S92000003,2015,Count,Mt Co2Equiv,1.686696725,International Aviation and Shipping,CO2
+S92000003,1999,Count,Mt Co2Equiv,-9.522316198,Forestry,CO2
+S92000003,1995,Count,Mt Co2Equiv,-8.454462102,Forestry,CO2
+S92000003,2009,Count,Mt Co2Equiv,-10.57017076,Forestry,CO2
+S92000003,1990,Count,Mt Co2Equiv,-7.209160158,Forestry,CO2
+S92000003,2016,Count,Mt Co2Equiv,-9.78279054,Forestry,CO2
+S92000003,2015,Count,Mt Co2Equiv,-9.671912466,Forestry,CO2
+S92000003,2000,Count,Mt Co2Equiv,0.001429758,Forestry,CH4
+S92000003,2001,Count,Mt Co2Equiv,0.043341261,Transport (excluding international aviation and shipping),CH4
+S92000003,2002,Count,Mt Co2Equiv,0.039710366,Transport (excluding international aviation and shipping),CH4
+S92000003,2003,Count,Mt Co2Equiv,4.787072448,Agriculture and Related Land Use,CH4
+S92000003,2016,Count,Mt Co2Equiv,1.522152851,Waste Management,CH4
+S92000003,2014,Count,Mt Co2Equiv,0.462864171,Energy Supply,CH4
+S92000003,2004,Count,Mt Co2Equiv,0.031958378,Transport (excluding international aviation and shipping),CH4
+S92000003,2004,Count,Mt Co2Equiv,4.801214007,Agriculture and Related Land Use,CH4
+S92000003,2005,Count,Mt Co2Equiv,0.004309466,Development,CH4
+S92000003,2017,Count,Mt Co2Equiv,1.562622777,Waste Management,CH4
+S92000003,1990,Count,Mt Co2Equiv,5.911706162,Waste Management,CH4
+S92000003,2014,Count,Mt Co2Equiv,7.37251E-4,Forestry,CH4
+S92000003,2007,Count,Mt Co2Equiv,6.40799E-4,International Aviation and Shipping,CH4
+S92000003,2006,Count,Mt Co2Equiv,0.027257164,Transport (excluding international aviation and shipping),CH4
+S92000003,2001,Count,Mt Co2Equiv,0.001684349,Forestry,CH4
+S92000003,2010,Count,Mt Co2Equiv,0.018863513,Business and Industrial Process,CH4
+S92000003,2014,Count,Mt Co2Equiv,0.010089678,Transport (excluding international aviation and shipping),CH4
+S92000003,2012,Count,Mt Co2Equiv,0.029269869,Business and Industrial Process,CH4
+S92000003,2002,Count,Mt Co2Equiv,4.768433788,Agriculture and Related Land Use,CH4
+S92000003,2001,Count,Mt Co2Equiv,5.2842762,Waste Management,CH4
+S92000003,2006,Count,Mt Co2Equiv,4.719342286,Agriculture and Related Land Use,CH4
+S92000003,2000,Count,Mt Co2Equiv,0.049314174,Transport (excluding international aviation and shipping),CH4
+S92000003,2011,Count,Mt Co2Equiv,0.01766773,Business and Industrial Process,CH4
+S92000003,1995,Count,Mt Co2Equiv,0.005905332,Forestry,CH4
+S92000003,1998,Count,Mt Co2Equiv,14.44659699,Transport (excluding international aviation and shipping),CO2
+S92000003,2017,Count,Mt Co2Equiv,12.87521141,Transport (excluding international aviation and shipping),CO2
+S92000003,2015,Count,Mt Co2Equiv,12.29497638,Transport (excluding international aviation and shipping),CO2
+S92000003,1995,Count,Mt Co2Equiv,14.00638276,Transport (excluding international aviation and shipping),CO2
+S92000003,1990,Count,Mt Co2Equiv,13.26105155,Transport (excluding international aviation and shipping),CO2
+S92000003,1999,Count,Mt Co2Equiv,14.55364294,Transport (excluding international aviation and shipping),CO2
+S92000003,2002,Count,Mt Co2Equiv,7.353687309,Residential,CO2
+S92000003,2001,Count,Mt Co2Equiv,8.020229375,Residential,CO2
+S92000003,2004,Count,Mt Co2Equiv,7.505550264,Residential,CO2
+S92000003,1990,Count,Mt Co2Equiv,7.725296865,Residential,CO2
+S92000003,2003,Count,Mt Co2Equiv,7.337868221,Residential,CO2
+S92000003,1995,Count,Mt Co2Equiv,7.630025571,Residential,CO2
+S92000003,2007,Count,Mt Co2Equiv,0.008266804,Waste Management,CO2
+S92000003,2015,Count,Mt Co2Equiv,0.006954948,Waste Management,CO2
+S92000003,2009,Count,Mt Co2Equiv,0.008961322,Waste Management,CO2
+S92000003,2002,Count,Mt Co2Equiv,0.019524756,Waste Management,CO2
+S92000003,2005,Count,Mt Co2Equiv,0.010678622,Waste Management,CO2
+S92000003,2006,Count,Mt Co2Equiv,0.007768629,Waste Management,CO2
+S92000003,2013,Count,Mt Co2Equiv,0.007417418,Waste Management,CO2
+S92000003,2004,Count,Mt Co2Equiv,0.013605758,Waste Management,CO2
+S92000003,2012,Count,Mt Co2Equiv,0.007821846,Waste Management,CO2
+S92000003,2008,Count,Mt Co2Equiv,0.008492338,Waste Management,CO2
+S92000003,2011,Count,Mt Co2Equiv,0.007883265,Waste Management,CO2
+S92000003,2014,Count,Mt Co2Equiv,0.007591093,Waste Management,CO2
+S92000003,2008,Count,Mt Co2Equiv,-10.59357224,Forestry,CO2
+S92000003,2017,Count,Mt Co2Equiv,-9.629173493,Forestry,CO2
+S92000003,2007,Count,Mt Co2Equiv,-10.54763433,Forestry,CO2
+S92000003,2011,Count,Mt Co2Equiv,-10.37688659,Forestry,CO2
+S92000003,2002,Count,Mt Co2Equiv,14.26741481,Transport (excluding international aviation and shipping),CO2
+S92000003,2010,Count,Mt Co2Equiv,-10.55535065,Forestry,CO2
+S92000003,2010,Count,Mt Co2Equiv,1.417100597,International Aviation and Shipping,CO2
+S92000003,2004,Count,Mt Co2Equiv,1.486541057,International Aviation and Shipping,CO2
+S92000003,2001,Count,Mt Co2Equiv,1.530299142,International Aviation and Shipping,CO2
+S92000003,2006,Count,Mt Co2Equiv,-10.45509292,Forestry,CO2
+S92000003,2003,Count,Mt Co2Equiv,-10.37583774,Forestry,CO2
+S92000003,2011,Count,Mt Co2Equiv,1.537742886,International Aviation and Shipping,CO2
+S92000003,2006,Count,Mt Co2Equiv,14.03612197,Transport (excluding international aviation and shipping),CO2
+S92000003,2012,Count,Mt Co2Equiv,12.12172863,Transport (excluding international aviation and shipping),CO2
+S92000003,2000,Count,Mt Co2Equiv,14.03320931,Transport (excluding international aviation and shipping),CO2
+S92000003,2008,Count,Mt Co2Equiv,13.6839371,Transport (excluding international aviation and shipping),CO2
+S92000003,2005,Count,Mt Co2Equiv,14.13730463,Transport (excluding international aviation and shipping),CO2
+S92000003,2009,Count,Mt Co2Equiv,13.15000104,Transport (excluding international aviation and shipping),CO2
+S92000003,2007,Count,Mt Co2Equiv,14.30960577,Transport (excluding international aviation and shipping),CO2
+S92000003,2003,Count,Mt Co2Equiv,14.11343374,Transport (excluding international aviation and shipping),CO2
+S92000003,2011,Count,Mt Co2Equiv,12.29090678,Transport (excluding international aviation and shipping),CO2
+S92000003,2016,Count,Mt Co2Equiv,12.61307913,Transport (excluding international aviation and shipping),CO2
+S92000003,2010,Count,Mt Co2Equiv,12.83549657,Transport (excluding international aviation and shipping),CO2
+S92000003,2004,Count,Mt Co2Equiv,14.03979119,Transport (excluding international aviation and shipping),CO2
